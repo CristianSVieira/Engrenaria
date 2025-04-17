@@ -1,0 +1,5 @@
+Plataforma para a a venda de peças para automóveis de maneira categorizada.
+
+
+
+(Protótipo de projecto para o integrador)
